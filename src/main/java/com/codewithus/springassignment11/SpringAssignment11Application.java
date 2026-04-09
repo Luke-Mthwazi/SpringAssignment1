@@ -27,8 +27,15 @@ public class SpringAssignment11Application {
 
         public CourseController() {
             courseList.add(new course(1L, "CSC111F: Introduction to Computing", "Foundation"));
-            courseList.add(new course(2L, "CSC212: Data Structures", "Undergraduate"));
-            courseList.add(new course(3L, "CSC411: Advanced Artificial Intelligence", "Honours"));
+            courseList.add(new course(2L, "CSC121 F: Computer Literacy For Science2", "Foundation"));
+            courseList.add(new course(3L, "CSC212: Data Structures", "Undergraduate"));
+            courseList.add(new course(4L, "CSC211: Advanced Programming ", "Undergraduate"));
+            courseList.add(new course(5L, "CSC121: Elementary Computer Programming ", "Undergraduate"));
+            courseList.add(new course(6L, "CSC313: Object Oriented Programming", "Undergraduate"));
+            courseList.add(new course(7L, "CSC411: Advanced Artificial Intelligence", "Honours"));
+            courseList.add(new course(8L, "CSC513: Distributed And Parallel Computing", "Honours"));
+            courseList.add(new course(9L, "CSC502: Research Methods ", "Honours"));
+            courseList.add(new course(10L, "CSC501: Research Project ", "Honours"));
         }
 
         // ================= PART A =================
