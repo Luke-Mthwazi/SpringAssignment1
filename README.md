@@ -76,8 +76,15 @@ The `/api/courses/department` endpoint returns all courses grouped by category (
 | ID | Course Name | Category |
 |----|-------------|----------|
 | 1 | CSC111F: Introduction to Computing | Foundation |
-| 2 | CSC212: Data Structures | Undergraduate |
-| 3 | CSC411: Advanced Artificial Intelligence | Honours |
+| 2 | CSC121F: Computer Literacy For Science | Foundation |
+| 3 | CSC212: Data Structures | Undergraduate |
+| 4 | CSC211: Advanced Programming | Undergraduate |
+| 5 | CSC121: Elementary Computer Programming | Undergraduate |
+| 6 | CSC313: Object Oriented Programming | Undergraduate |
+| 7 | CSC411: Advanced Artificial Intelligence | Honours |
+| 8 | CSC411: CSC513 Distributed And Parallel Computing | Honours |
+| 9 | CSC411: CSC502 Research Methods | Honours |
+| 10 |CSC411: CSC501 Research Project | Honours |
 
 ### Endpoint
 
