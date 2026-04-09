@@ -1,6 +1,6 @@
 # SpringAssignment1 — CSC313: Object-Oriented Programming
 
-**Group:** CSC 313 Group 2  
+**Group:** CSC 313 Group 9  
 **Institution:** University of Fort Hare — Department of Computer Science  
 **Module:** CSC313: Object-Oriented Programming  
 **Submission Date:** 10 April 2026  
@@ -11,12 +11,12 @@
 
 | # | Full Name |
 |---|-----------|
-| 1 | Lukhanyile Mthwazi |
-| 2 | Samnkelisiwe Mathe |
-| 3 | Okuhle Genge |
-| 4 | Orilwela Sadiki |
-| 5 | Nkosinathi Mbewana |
-| 6 | Musa Joseph |
+| 1 | Lukhanyile Mthwazi (224056213) |
+| 2 | Samnkelisiwe Mathe (223000926) |
+| 3 | Okuhle Genge(224097337) |
+| 4 | Orilwela Sadiki(202372554) |
+| 5 | Nkosinathi Mbewana(224005032) |
+| 6 | Musa Joseph(202250466) |
 
 ---
 
@@ -172,4 +172,4 @@ http://localhost:8080/api/courses
 
 ---
 
-*CSC313 Group 2 — University of Fort Hare — 2026*
+*CSC313 Group 9 — University of Fort Hare — 2026*
